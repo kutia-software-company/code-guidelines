@@ -8,4 +8,4 @@ We consider our guidelines as a living document. People, teams, and opinions cha
 
 # Full Documentation
 
-https://github.com/kutia-software-company/code-guidelines
+https://kutia-software-company.github.io/code-guidelines
