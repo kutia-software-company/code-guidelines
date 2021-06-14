@@ -24,3 +24,11 @@
   - [Authorization](pages/laravel/main.md?id=authorization)
   - [Translations](pages/laravel/main.md?id=translations)
   - [Naming](pages/laravel/main.md?id=naming-Classes)
+
+- JavaScript
+  - [About JavaScript](pages/javascript/main.md?id=javascript)
+  - [Variable assignment](pages/javascript/main.md?id=variable-assignment)
+  - [Variable names](pages/javascript/main.md?id=variable-names)
+  - [Comparisons](pages/javascript/main.md?id=comparisons)
+  - [Function keyword vs. arrow functions](pages/javascript/main.md?id=function-keyword-vs-arrow-functions)
+  - [Object and array destructuring](pages/javascript/main.md?id=object-and-array-destructuring)
