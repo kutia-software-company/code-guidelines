@@ -8,11 +8,11 @@ We consider our guidelines as a living document. People, teams, and opinions cha
 
 Project is inspired by [Guidelines | Spatie](https://spatie.be/guidelines).
 
-# Full Documentation
+### Full Documentation
 
 https://kutia-software-company.github.io/code-guidelines
 
-# Installation Locally
+### Installation Locally
 
 ```bash
 docsify serve
