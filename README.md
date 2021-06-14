@@ -6,6 +6,14 @@ The members of our team regularly discuss the pros and cons of each of their ind
 
 We consider our guidelines as a living document. People, teams, and opinions change over time. We don't dogmatically keep following rules we agreed on in the past, but keep challenging them. New experiences lead to new and improved guidelines.
 
+Project is inspired by [Guidelines | Spatie](https://spatie.be/guidelines).
+
 # Full Documentation
 
 https://kutia-software-company.github.io/code-guidelines
+
+# Installation Locally
+
+```bash
+docsify serve
+```
